@@ -30,7 +30,7 @@ int factor;
 
 //Global Variables
 
-
+/////////////////////////
 //Global Constants
 
 //Game include files
